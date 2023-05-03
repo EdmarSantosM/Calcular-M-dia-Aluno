@@ -1,0 +1,15 @@
+C:\Users\Aluno\Desktop\vsCode\Calcular-M-dia-Aluno\CalcularMedia\bin\Debug\net7.0\CalcularMedia.exe
+C:\Users\Aluno\Desktop\vsCode\Calcular-M-dia-Aluno\CalcularMedia\bin\Debug\net7.0\CalcularMedia.deps.json
+C:\Users\Aluno\Desktop\vsCode\Calcular-M-dia-Aluno\CalcularMedia\bin\Debug\net7.0\CalcularMedia.runtimeconfig.json
+C:\Users\Aluno\Desktop\vsCode\Calcular-M-dia-Aluno\CalcularMedia\bin\Debug\net7.0\CalcularMedia.dll
+C:\Users\Aluno\Desktop\vsCode\Calcular-M-dia-Aluno\CalcularMedia\bin\Debug\net7.0\CalcularMedia.pdb
+C:\Users\Aluno\Desktop\vsCode\Calcular-M-dia-Aluno\CalcularMedia\obj\Debug\net7.0\CalcularMedia.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\vsCode\Calcular-M-dia-Aluno\CalcularMedia\obj\Debug\net7.0\CalcularMedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\vsCode\Calcular-M-dia-Aluno\CalcularMedia\obj\Debug\net7.0\CalcularMedia.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\vsCode\Calcular-M-dia-Aluno\CalcularMedia\obj\Debug\net7.0\CalcularMedia.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\vsCode\Calcular-M-dia-Aluno\CalcularMedia\obj\Debug\net7.0\CalcularMedia.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\vsCode\Calcular-M-dia-Aluno\CalcularMedia\obj\Debug\net7.0\CalcularMedia.dll
+C:\Users\Aluno\Desktop\vsCode\Calcular-M-dia-Aluno\CalcularMedia\obj\Debug\net7.0\refint\CalcularMedia.dll
+C:\Users\Aluno\Desktop\vsCode\Calcular-M-dia-Aluno\CalcularMedia\obj\Debug\net7.0\CalcularMedia.pdb
+C:\Users\Aluno\Desktop\vsCode\Calcular-M-dia-Aluno\CalcularMedia\obj\Debug\net7.0\CalcularMedia.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\vsCode\Calcular-M-dia-Aluno\CalcularMedia\obj\Debug\net7.0\ref\CalcularMedia.dll
