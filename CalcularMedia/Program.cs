@@ -26,7 +26,19 @@ class Program
 
         if( resultado > 7.5)
         {
-            
+            Console.WriteLine($"\nOlá {nome.ToUpper()},Parabéns! :) você foi aprovado com a média {resultado.ToString("N2")}");
         }
+        else if (resultado > 5 && resultado < 7 )
+        {
+             Console.WriteLine($"\nOlá {nome.ToUpper()}, você está de recuperação :|, estude para o exame final, sua média foi {resultado.ToString("N2")}");
+        }
+        else
+        {
+             Console.WriteLine($"\nOlá {nome.ToUpper()}, Infelizmente  está  reprovado :(, sua média  foi {resultado.ToString("N2")}");
+        }
+            Console.WriteLine("\n----------------------------------------------------------------------------------------------- ");
+            Console.WriteLine("\nPressione uma tecla para encerrar !");
+            Console.ReadKey();
+
     }
 }
