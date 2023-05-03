@@ -22,6 +22,11 @@ class Program
         Console.Write("\nDigite a quarta  nota:");
         float nota4 = (float.Parse(Console.ReadLine()));
 
-        
+        float resultado =  ((nota1 + nota2 + nota3 + nota4)/4);
+
+        if( resultado > 7.5)
+        {
+            
+        }
     }
 }
